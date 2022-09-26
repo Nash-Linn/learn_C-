@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\bin\Debug\_10.占位符.exe.config
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\bin\Debug\_10.占位符.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\bin\Debug\_10.占位符.pdb
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\obj\Debug\_10.占位符.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\obj\Debug\_10.占位符.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\obj\Debug\_10.占位符.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\obj\Debug\_10.占位符.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_10.占位符\obj\Debug\_10.占位符.pdb

@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\bin\Debug\_15.类型转换.exe.config
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\bin\Debug\_15.类型转换.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\bin\Debug\_15.类型转换.pdb
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\obj\Debug\_15.类型转换.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\obj\Debug\_15.类型转换.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\obj\Debug\_15.类型转换.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\obj\Debug\_15.类型转换.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_15.类型转换\obj\Debug\_15.类型转换.pdb

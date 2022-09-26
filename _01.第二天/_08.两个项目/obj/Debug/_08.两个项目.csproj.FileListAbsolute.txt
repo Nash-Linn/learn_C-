@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\bin\Debug\_08.两个项目.exe.config
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\bin\Debug\_08.两个项目.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\bin\Debug\_08.两个项目.pdb
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\obj\Debug\_08.两个项目.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\obj\Debug\_08.两个项目.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\obj\Debug\_08.两个项目.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\obj\Debug\_08.两个项目.exe
+D:\Coding\learn\learn C sharp\_01.第二天\_08.两个项目\obj\Debug\_08.两个项目.pdb

@@ -1,0 +1,8 @@
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\bin\Debug\_02.vs当中的常用快捷键.exe.config
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\bin\Debug\_02.vs当中的常用快捷键.exe
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\bin\Debug\_02.vs当中的常用快捷键.pdb
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\obj\Debug\_02.vs当中的常用快捷键.csproj.AssemblyReference.cache
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\obj\Debug\_02.vs当中的常用快捷键.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\obj\Debug\_02.vs当中的常用快捷键.csproj.CoreCompileInputs.cache
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\obj\Debug\_02.vs当中的常用快捷键.exe
+D:\Coding\learn C sharp\_01.第二天\_02.vs当中的常用快捷键\obj\Debug\_02.vs当中的常用快捷键.pdb
