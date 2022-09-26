@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.复习", "ConsoleApp1\_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.两道作业题", "_02.两道作业题\_02.两道作业题.csproj", "{98BF91E5-E43F-44DB-B637-44FABF56969F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.类型转换", "_03.类型转换\_03.类型转换.csproj", "{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{98BF91E5-E43F-44DB-B637-44FABF56969F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BF91E5-E43F-44DB-B637-44FABF56969F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BF91E5-E43F-44DB-B637-44FABF56969F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
