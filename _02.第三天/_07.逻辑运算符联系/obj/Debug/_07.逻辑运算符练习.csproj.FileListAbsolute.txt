@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\bin\Debug\_07.逻辑运算符联系.exe.config
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\bin\Debug\_07.逻辑运算符联系.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\bin\Debug\_07.逻辑运算符联系.pdb
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\obj\Debug\_07.逻辑运算符练习.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\obj\Debug\_07.逻辑运算符练习.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\obj\Debug\_07.逻辑运算符练习.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\obj\Debug\_07.逻辑运算符联系.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_07.逻辑运算符联系\obj\Debug\_07.逻辑运算符联系.pdb

@@ -58,6 +58,7 @@ namespace _03.类型转换
 
             Console.WriteLine("{0}，你的总成绩为{1}分，平均成绩为{2}分",name,chinese+math+english,(chinese + math + english)/3);
             Console.ReadKey();
+            
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\bin\Debug\_08.判断闰年.exe.config
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\bin\Debug\_08.判断闰年.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\bin\Debug\_08.判断闰年.pdb
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\obj\Debug\_08.判断闰年.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\obj\Debug\_08.判断闰年.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\obj\Debug\_08.判断闰年.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\obj\Debug\_08.判断闰年.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_02.第三天\_08.判断闰年\obj\Debug\_08.判断闰年.pdb

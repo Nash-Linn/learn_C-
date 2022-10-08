@@ -9,6 +9,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.两道作业题", "_02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.类型转换", "_03.类型转换\_03.类型转换.csproj", "{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04.convert类型转换", "_04.convert类型转换\_04.convert类型转换.csproj", "{9D85AE78-5AC9-40C6-BDC4-D7EEF3CF42CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05.加加减减", "_05.加加减减\_05.加加减减.csproj", "{52F55B55-C485-49D0-9525-4C52DDB193FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06.关系运算符", "_06.关系运算符\_06.关系运算符.csproj", "{C19F7DCF-19DF-4460-A430-2BCF1795A470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07.逻辑运算符练习", "_07.逻辑运算符练习\_07.逻辑运算符练习.csproj", "{75205599-1EA6-4C9E-A38B-0BEF5F1972AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08.判断闰年", "_08.判断闰年\_08.判断闰年.csproj", "{E1EDE41E-3834-45B9-B450-0BE557C76745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10.if结构", "_10.if结构\_10.if结构.csproj", "{5558839B-C92B-4B6A-A747-2F94433B9FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11.if-else练习", "_11.if-else练习\_11.if-else练习.csproj", "{9E1D23E8-60E7-453A-BE16-4D697C1BE8B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +41,34 @@ Global
 		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90A9431-3A8F-4C83-A80C-A3CD6D9E5CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D85AE78-5AC9-40C6-BDC4-D7EEF3CF42CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D85AE78-5AC9-40C6-BDC4-D7EEF3CF42CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D85AE78-5AC9-40C6-BDC4-D7EEF3CF42CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D85AE78-5AC9-40C6-BDC4-D7EEF3CF42CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F55B55-C485-49D0-9525-4C52DDB193FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F55B55-C485-49D0-9525-4C52DDB193FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F55B55-C485-49D0-9525-4C52DDB193FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F55B55-C485-49D0-9525-4C52DDB193FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19F7DCF-19DF-4460-A430-2BCF1795A470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19F7DCF-19DF-4460-A430-2BCF1795A470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19F7DCF-19DF-4460-A430-2BCF1795A470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19F7DCF-19DF-4460-A430-2BCF1795A470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75205599-1EA6-4C9E-A38B-0BEF5F1972AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75205599-1EA6-4C9E-A38B-0BEF5F1972AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75205599-1EA6-4C9E-A38B-0BEF5F1972AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75205599-1EA6-4C9E-A38B-0BEF5F1972AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EDE41E-3834-45B9-B450-0BE557C76745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EDE41E-3834-45B9-B450-0BE557C76745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EDE41E-3834-45B9-B450-0BE557C76745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EDE41E-3834-45B9-B450-0BE557C76745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5558839B-C92B-4B6A-A747-2F94433B9FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5558839B-C92B-4B6A-A747-2F94433B9FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5558839B-C92B-4B6A-A747-2F94433B9FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5558839B-C92B-4B6A-A747-2F94433B9FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1D23E8-60E7-453A-BE16-4D697C1BE8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1D23E8-60E7-453A-BE16-4D697C1BE8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1D23E8-60E7-453A-BE16-4D697C1BE8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1D23E8-60E7-453A-BE16-4D697C1BE8B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
