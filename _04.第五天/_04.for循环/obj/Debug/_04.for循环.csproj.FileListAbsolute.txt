@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\bin\Debug\_04.for循环.exe.config
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\bin\Debug\_04.for循环.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\bin\Debug\_04.for循环.pdb
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\obj\Debug\_04.for循环.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\obj\Debug\_04.for循环.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\obj\Debug\_04.for循环.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\obj\Debug\_04.for循环.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_04.for循环\obj\Debug\_04.for循环.pdb

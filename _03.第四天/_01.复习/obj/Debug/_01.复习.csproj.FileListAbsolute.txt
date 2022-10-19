@@ -1,0 +1,8 @@
+D:\Coding\learn C sharp\_03.第四天\_01.复习\bin\Debug\_01.复习.exe.config
+D:\Coding\learn C sharp\_03.第四天\_01.复习\bin\Debug\_01.复习.exe
+D:\Coding\learn C sharp\_03.第四天\_01.复习\bin\Debug\_01.复习.pdb
+D:\Coding\learn C sharp\_03.第四天\_01.复习\obj\Debug\_01.复习.csproj.AssemblyReference.cache
+D:\Coding\learn C sharp\_03.第四天\_01.复习\obj\Debug\_01.复习.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn C sharp\_03.第四天\_01.复习\obj\Debug\_01.复习.csproj.CoreCompileInputs.cache
+D:\Coding\learn C sharp\_03.第四天\_01.复习\obj\Debug\_01.复习.exe
+D:\Coding\learn C sharp\_03.第四天\_01.复习\obj\Debug\_01.复习.pdb

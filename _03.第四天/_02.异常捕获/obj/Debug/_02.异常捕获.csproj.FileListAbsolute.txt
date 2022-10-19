@@ -1,0 +1,8 @@
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\bin\Debug\_02.异常捕获.exe.config
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\bin\Debug\_02.异常捕获.exe
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\bin\Debug\_02.异常捕获.pdb
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\obj\Debug\_02.异常捕获.csproj.AssemblyReference.cache
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\obj\Debug\_02.异常捕获.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\obj\Debug\_02.异常捕获.csproj.CoreCompileInputs.cache
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\obj\Debug\_02.异常捕获.exe
+D:\Coding\learn C sharp\_03.第四天\_02.异常捕获\obj\Debug\_02.异常捕获.pdb

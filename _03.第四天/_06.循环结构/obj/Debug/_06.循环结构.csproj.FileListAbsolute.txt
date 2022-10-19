@@ -1,0 +1,8 @@
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\obj\Debug\_06.循环结构.csproj.AssemblyReference.cache
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\obj\Debug\_06.循环结构.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\obj\Debug\_06.循环结构.csproj.CoreCompileInputs.cache
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\bin\Debug\_06.循环结构.exe.config
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\bin\Debug\_06.循环结构.exe
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\bin\Debug\_06.循环结构.pdb
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\obj\Debug\_06.循环结构.exe
+D:\Coding\learn C sharp\_03.第四天\_06.循环结构\obj\Debug\_06.循环结构.pdb

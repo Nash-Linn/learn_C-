@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\bin\Debug\_06.乘法口诀表.exe.config
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\bin\Debug\_06.乘法口诀表.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\bin\Debug\_06.乘法口诀表.pdb
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\obj\Debug\_06.乘法口诀表.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\obj\Debug\_06.乘法口诀表.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\obj\Debug\_06.乘法口诀表.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\obj\Debug\_06.乘法口诀表.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_04.第五天\_06.乘法口诀表\obj\Debug\_06.乘法口诀表.pdb

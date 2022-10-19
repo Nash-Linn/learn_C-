@@ -1,0 +1,8 @@
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\bin\Debug\_03.switch_case.exe.config
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\bin\Debug\_03.switch_case.exe
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\bin\Debug\_03.switch_case.pdb
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\obj\Debug\_03.switch_case.csproj.AssemblyReference.cache
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\obj\Debug\_03.switch_case.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\obj\Debug\_03.switch_case.csproj.CoreCompileInputs.cache
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\obj\Debug\_03.switch_case.exe
+D:\Coding\learn C sharp\_03.第四天\_03.switch_case\obj\Debug\_03.switch_case.pdb
