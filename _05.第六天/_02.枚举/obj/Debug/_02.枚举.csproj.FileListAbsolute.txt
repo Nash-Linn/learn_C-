@@ -1,0 +1,8 @@
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\bin\Debug\_02.枚举.exe.config
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\bin\Debug\_02.枚举.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\bin\Debug\_02.枚举.pdb
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\obj\Debug\_02.枚举.csproj.AssemblyReference.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\obj\Debug\_02.枚举.csproj.SuggestedBindingRedirects.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\obj\Debug\_02.枚举.csproj.CoreCompileInputs.cache
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\obj\Debug\_02.枚举.exe
+D:\Coding\learn\learn C sharp\learn_C_sharp\_05.第六天\_02.枚举\obj\Debug\_02.枚举.pdb

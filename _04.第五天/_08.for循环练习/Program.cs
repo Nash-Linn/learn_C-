@@ -17,10 +17,10 @@ namespace _08.for循环练习
                 Console.WriteLine("请输入第{0}个人的成绩",i);
 
                 try {
-                    int age = Convert.ToInt32(Console.ReadLine());
-                    if (age >= 0 && age <= 100)
+                    int score = Convert.ToInt32(Console.ReadLine());
+                    if (score >= 0 && score <= 100)
                     {
-                        sum += age;
+                        sum += score;
                     }
                     else
                     {
